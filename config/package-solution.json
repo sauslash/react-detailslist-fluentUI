@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-detailslist-uifabric-client-side-solution",
+    "id": "2b3cb904-72aa-4432-94e8-e612d15efd01",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/react-detailslist-uifabric.sppkg"
+  }
+}
