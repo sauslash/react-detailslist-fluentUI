@@ -1,6 +1,5 @@
 import * as React from 'react';
 import { IHomeDetailsListProps } from './IHomeDetailsListProps';
-
 import { Announced } from 'office-ui-fabric-react/lib/Announced';
 import { TextField, ITextFieldStyles } from 'office-ui-fabric-react/lib/TextField';
 import { DetailsList, DetailsListLayoutMode, Selection, IColumn } from 'office-ui-fabric-react/lib/DetailsList';

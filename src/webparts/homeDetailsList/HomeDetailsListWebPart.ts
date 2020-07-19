@@ -19,7 +19,6 @@ export interface IHomeDetailsListWebPartProps {
 export default class HomeDetailsListWebPart extends BaseClientSideWebPart <IHomeDetailsListWebPartProps> {
 
   public onInit(): Promise<void> {
-
     return super.onInit().then(_ => {
       sp.setup({
         spfxContext: this.context
